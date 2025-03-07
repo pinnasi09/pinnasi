@@ -1,4 +1,4 @@
-visit my portfolio web at :: https://pinnasi09.github.io/portfolio/
+visit my portfolio web at :: https://pinnasi09.github.io/pinnasi/
 
 Thanks for downloading this template!
 
